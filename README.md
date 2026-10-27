@@ -1,4 +1,4 @@
-# Weather Dashboard — React (Assignment 5)
+# Weather Dashboard using REACT
 
 My Assignment 4 Weather Dashboard rebuilt as a **React + Vite** app, using the methods from Session 14 (React State & Interactivity) and Session 15 (Effects, Forms & Component Architecture).
 
